@@ -11,7 +11,7 @@ html,body{
     display: grid;
     height: 100%;
     place-items: center;
-    background: linear-gradient( #000033, #002d66);
+    background: #ebeef1;
 }
 
 .checkbox{
@@ -22,7 +22,8 @@ html,body{
     align-items: center;
     padding: 30px;
     border-radius: 20px;
-    box-shadow: 3px 3px 4px rgba(122, 148, 232, 0.5);
+    box-shadow: 3px 3px 4px 
+              rgba(14, 24, 33, 0.16);
     justify-content: center;
 }
 
